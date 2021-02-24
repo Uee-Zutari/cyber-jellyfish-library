@@ -4,7 +4,7 @@
  */
 
 // ReSharper disable once CheckNamespace
-namespace JellyFish.Internal.Utilities
+namespace JellyFish.Internal
 {
     public static class MathUtility
     {

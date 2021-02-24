@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using TMPro;
 using UnityEngine;
 
-namespace LibUee.Internal
+namespace CyberJellyFish.Internal
 {
     public class FpsMonitorUI : MonoBehaviour
     {

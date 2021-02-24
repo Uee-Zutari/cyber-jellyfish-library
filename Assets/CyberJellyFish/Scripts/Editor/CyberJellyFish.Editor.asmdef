@@ -1,10 +1,11 @@
 {
-    "name": "LibUee.Examples",
-    "rootNamespace": "",
+    "name": "CyberJellyFish.Editor",
     "references": [
-        "GUID:3db6c688bb1e6824d9aea7cfac7fe97c"
+        "GUID:ac403b1a1d4fb554289021d7562800ba"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

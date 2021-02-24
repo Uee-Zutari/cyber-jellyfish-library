@@ -1,4 +1,4 @@
-using LibUee.Internal;
+using CyberJellyFish.Internal;
 using UnityEngine;
 
 public class ColorExtensionExample : MonoBehaviour
@@ -12,7 +12,7 @@ public class ColorExtensionExample : MonoBehaviour
         if (Test)
         {
             Test = false;
-            SpriteRenderer.color = Colour.Amber;
+            SpriteRenderer.color = MyColours.Amber;
             Color.ToHtmlColor("#FF9800");
             Color.ChangeAlpha(.5f);
         }

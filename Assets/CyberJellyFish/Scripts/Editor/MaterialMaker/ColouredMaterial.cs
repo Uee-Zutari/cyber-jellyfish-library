@@ -3,7 +3,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace LibUee.Editor
+namespace CyberJellyFish.Editor
 {
     public static class ColouredMaterial
     {

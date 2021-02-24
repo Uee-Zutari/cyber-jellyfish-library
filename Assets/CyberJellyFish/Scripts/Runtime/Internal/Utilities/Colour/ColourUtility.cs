@@ -5,7 +5,7 @@
 
 using UnityEngine;
 
-namespace LibUee.Internal
+namespace CyberJellyFish.Internal
 {
     public static class ColourUtility
     {

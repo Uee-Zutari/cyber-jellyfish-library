@@ -1,10 +1,10 @@
 using System;
 using UnityEngine;
 
-namespace LibUee.Internal
+namespace CyberJellyFish.Internal
 {
     [Serializable]
-    public struct Colour
+    public struct MyColours
     {
         #region HTML STRING METHODS
 
