@@ -1,0 +1,16 @@
+{
+    "name": "LibUee.Examples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3db6c688bb1e6824d9aea7cfac7fe97c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
