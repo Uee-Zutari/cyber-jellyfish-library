@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace CyberJellyFish.Editor
 {
-    public static class SimpleMaterialMaker
+    public static class MaterialMaker
     {
         #region VARIABLES
 
