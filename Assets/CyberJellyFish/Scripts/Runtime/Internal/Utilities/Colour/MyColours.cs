@@ -54,6 +54,7 @@ namespace CyberJellyFish.Internal
         public static Color LiteGray        = ColourUtility.HtmlColor("#BDBDBD");
         public static Color Gray            = ColourUtility.HtmlColor("#9E9E9E");
         public static Color DarkGray        = ColourUtility.HtmlColor("#303030");
+        public static Color DarkGrays        = ColourUtility.HtmlColor("#303030");
 
         #endregion
 
